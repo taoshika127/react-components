@@ -48,4 +48,3 @@ var GroceryList = (props) => {
     )
 };
 ReactDOM.render(<GroceryList />, document.getElementById("app"));
-
